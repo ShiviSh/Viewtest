@@ -3,7 +3,7 @@ It displays a mediastyle notification which includes playback control.
 
 Note: This app is currently in testing phase.There are still some features to be added...
 
-Credit:
+Credits:
 
 https://github.com/sushantbelsare/SeekArc for Circular Seek Bar
 
