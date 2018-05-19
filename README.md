@@ -3,5 +3,7 @@ It displays a mediastyle notification which includes playback control.
 
 Credit:
 https://github.com/sushantbelsare/SeekArc for Circular Seek Bar
+
 https://github.com/hdodenhof/CircleImageView for Circular Image View
+
 https://developer.android.com
