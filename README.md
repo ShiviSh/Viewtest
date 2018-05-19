@@ -2,6 +2,7 @@ An Android music player which uses Androids MediaBrowser service for music playb
 It displays a mediastyle notification which includes playback control.
 
 Credit:
+
 https://github.com/sushantbelsare/SeekArc for Circular Seek Bar
 
 https://github.com/hdodenhof/CircleImageView for Circular Image View
