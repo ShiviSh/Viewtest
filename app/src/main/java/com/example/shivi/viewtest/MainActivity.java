@@ -512,6 +512,8 @@ public class MainActivity extends AppCompatActivity  {
         //Log.i("max progress","set " + circularSeekBar.g());
         updateseekbar(mediaControllerCompat.getPlaybackState().getPosition());
 
+        Log.i("test","vcs");
+
     }
 
 
